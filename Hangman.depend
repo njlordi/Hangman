@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1420668840 source:c:\users\nick\documents\c++\hangman\main.cpp
+	<iostream>
+	"wordguess.h"
+
+1420668840 c:\users\nick\documents\c++\hangman\wordguess.h
+
+1421087058 source:c:\users\nick\documents\c++\hangman\wordguess.cpp
+	<iostream>
+	<cstdlib>
+	"hangman.h"
+	"wordlist.h"
+	"letterlist.h"
+
+1420233962 c:\users\nick\documents\c++\hangman\wordlist.h
+	<vector>
+
+1420668840 source:c:\users\nick\documents\c++\hangman\wordlist.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	"time.h"
+	"wordlist.h"
+
+1420344878 source:c:\users\nick\documents\c++\hangman\hangman.cpp
+	<iostream>
+	"hangman.h"
+
+1420668840 c:\users\nick\documents\c++\hangman\hangman.h
+
+1420668840 source:c:\users\nick\documents\c++\hangman\letterlist.cpp
+	<iostream>
+	<vector>
+	"letterlist.h"
+
+1420668840 c:\users\nick\documents\c++\hangman\letterlist.h
+	<vector>
+
