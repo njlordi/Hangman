@@ -60,7 +60,7 @@ void startGame()
             }
             if(!isCorrect)
             {
-                system("CLS");
+                system("CLS"); // Dangerous, do not get in the habit of using this
                 isCorrect = false;
                 if(!playerLetters->hasBeenUsed(cGuess))
                 {
